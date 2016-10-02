@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dedec077f47c7a2498aa6c026c97df6a
+timeCreated: 1460908251
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fireSprite: {fileID: 176792, guid: ac087108059ec46459cce7b23e7624d4, type: 2}
+  - waterSprite: {fileID: 128224, guid: 5a11a41d555887e42886916ca7105f7b, type: 2}
+  - earthSprite: {fileID: 172106, guid: 15477bfdbe6f7914c8cc25709404518d, type: 2}
+  - airSprite: {fileID: 168170, guid: fee0017664f75d34096bafe551561709, type: 2}
+  - stone: {fileID: 158360, guid: 624394076c1e25c4ebb128b69b9581e8, type: 2}
+  - castle: {fileID: 172892, guid: 45d5a5424812b38428cbb7d04c3e4346, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

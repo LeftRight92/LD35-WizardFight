@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 027a2ad5aa7389748b175781439ed59b
+timeCreated: 1460910625
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - runePrefab: {fileID: 178702, guid: d49ff10784e7ac940829cc876d108595, type: 2}
+  - RedMaterial: {fileID: 2100000, guid: 57c2de960992c58488b517a2b346397a, type: 2}
+  - BlueMaterial: {fileID: 2100000, guid: 82c74ffeb4fe1ae4f9bf91fde55060d8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
